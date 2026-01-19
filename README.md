@@ -97,7 +97,7 @@ python atm.py
 
 Use the default PIN:
 
-1234
+2468
 
 📂 Project Structure
 ATM-Simulation-System/
