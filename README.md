@@ -1,8 +1,8 @@
 # ATM-Simulation-System
-Menu-driven ATM Simulation System built using Core Python. Implements PIN authentication, balance enquiry, deposit, withdrawal, transaction history, and daily withdrawal limits.
+Menu-driven ATM Simulation System built using Core Python.
 
-🏦 ATM Simulation System – Core Python Mini Project
-📌 Project Overview
+
+Project Overview
 
 The ATM Simulation System is a menu-driven Python program that simulates the basic operations of an Automated Teller Machine (ATM).
 This project is developed using Core Python only, without any external libraries, and is intended to strengthen fundamental programming concepts.
